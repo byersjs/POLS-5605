@@ -1,0 +1,53 @@
+---
+title: "POLS 5605: Seminar in Quantitative Methods of Political Science"
+author: 
+  - name: Jason Byers
+    email: jason.byers@uconn.edu
+date: today
+---
+
+Welcome to our course website! Here you can find links to everything you'll need this semester:
+
+-   The course [syllabus](https://byersjs.github.io/POLS-5605-Syllabus/)
+
+-   Submit assignments at our course [HuskyCT page](https://huskyct.uconn.edu) (mortarboard icon in the upper right).
+
+-   I will post code, data, and lecture notes on the course [GitHub repository](https://github.com/byersjs/POLS-5605) (the octocat icon in the upper right).
+
+# Course Description
+
+Scholars in political science and in disciplines across the social sciences are increasingly relying on quantitative, data-driven methods to answer important questions in their field. This course provides an introduction to the study of politics through quantitative reasoning and data analysis. Like a traditional research methods course, we will cover the fundamentals of empirical research in political science including causal inference, summary statistics, data visualization, and regression. However, unlike a traditional research methods course, this course places a particular emphasis on developing technical skills used to conduct real world data analysis. Therefore, a significant amount of the coursework will be dedicated to learning how to program in the statistical computing environment, R. The goal is for you to gain a valuable skillset in data analysis that you can use in your political science classes and, more importantly, in your future careers.
+
+# Course Objectives
+
+Together, we will strive for your individual and collective success in achieving the learning outcomes of this course. At the conclusion of this course, students will be able to:
+
+-   Define and describe the varied nature of quantitative analysis in political science
+
+-   Understand each step of the data lifecycle, identify potential sources of statistical and human bias, and determine their implications on the scope of inference.
+
+-   "Think with data" by using statistical software to explore, analyze, visualize, and interpret nontrivial datasets with relevance and importance to the social sciences.
+
+-   Identify and evaluate misuses, distortions, and misrepresentations of data and statistics.
+
+-   Apply your statistical literacy to issues within political science.
+
+-   Communicate clearly and persuasively with data
+
+# Course Materials
+
+To maximize access to this class, we will use some textbooks, videos, and other resources, with a focus on the following:
+
+-   Primary Text (DASS): Imai, Kosuke. 2018. [Quantitative Social Science: An Introduction.](https://press.princeton.edu/books/hardcover/9780691167039/quantitative-social-science?srsltid=AfmBOorwui6mwJvPdZYGHFBTCe-K6stYkSIkyW3WwNRfsDpAF4gnnCuu) Princeton University Press.
+
+-   Primary Text (R4DS): Wickham, Hadley, Mine Cetinkaya-Rundel, and Garrett Grolemund. 2023. [R for Data Science: Import Tidy, Transform, Visualize, and Model Data.](https://r4ds.hadley.nz) 2nd Edition. O'Reilly Media. This book is freely available online. It is also available in paperback, if you prefer a hard copy. Warning: some content and the numbering system differs between print and online versions; I will exclusively refer to the free online version.
+
+**Reference Texts** <br>
+
+-   Reference Text (HOPR): Grolemund, Garrett. 2014. [Hands-On Programming with R: Write Your Own Functions and Simulations.](https://rstudio-education.github.io/hopr/) O'Reilly Media. This book is freely available online. It is also available in paperback, if you prefer a hard copy. Warning: some content and the numbering system differs between print and online versions; I will exclusively refer to the free online version.
+
+-   Reference Text (DSB): Cetinkaya-Rundel, Mine. 2021. [Data Science in a Box.](https://datasciencebox.org/index.html) This book is freely available online.
+
+-   Reference Text (GCR): Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2019. ["Geocomputation with R."](https://geocompr.robinlovelace.net) CRC Press. This book is freely available online. It is also available in paperback, if you prefer a hard copy. Warning: some content and the numbering system differs between print and online versions; I will exclusively refer to the free online version.
+
+-   Reference Text (USDR): Engel, Claudia A. 2019. ["Using Spatial Data with R."](https://cengel.github.io/R-spatial/) This book is freely available online.

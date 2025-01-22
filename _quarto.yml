@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: auto  # re-render only when source changes
+
+website:
+  title: "Seminar in Quantitative Methods of Political Science"
+  favicon: img/favicon_io/favicon.ico
+  navbar:
+    background: '#000E2F'
+    # left:
+    #   - href: index.qmd
+    #     text: Home
+    #   - about.qmd
+    right: 
+      - href: index.qmd
+        text: Home
+      - href: https://byersjs.github.io/POLS-5605-Syllabus/
+        text: "Syllabus"
+      #- text: DASS Data
+      #  menu: 
+      #    - text: BES
+      #      href: DASS Data/BES.csv
+      #    - text: Countries
+      #      href: DASS Data/countries.csv
+      #    - text: Star
+      #      href: DASS Data/STAR.csv
+      #    - text: UA_Precincts
+      #      href: DASS Data/UA_precincts.csv
+      #    - text: UA_Survey
+      #      href: DASS Data/UA_survey.csv
+      #    - text: UK_Districts
+      #      href: DASS Data/UK_districts.csv 
+      - href: https://huskyct.uconn.edu
+        icon: mortarboard-fill
+      - href: https://github.com/byersjs/POLS-5605
+        icon: github
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+
+editor: visual
+
+
